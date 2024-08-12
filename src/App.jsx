@@ -9,7 +9,7 @@ function App() {
   
   useEffect(() => {
     fetch(
-      `http://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=${currentCity}&aqi=no`
+      `https://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=${currentCity}&aqi=no`
     )
       .then((res) => res.json())
       .then((response) => {
