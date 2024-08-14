@@ -97,4 +97,3 @@ By following these steps, you ensure that your environment variables are securel
 - [Azure Static Web Apps Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions#environment-variables)
 - [GitHub Actions and Secrets](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository)
 - [Managing API keys in frontend](https://www.quicknode.com/guides/quicknode-products/endpoint-security/front-end-best-practices)
-```
